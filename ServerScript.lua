@@ -155,5 +155,3 @@ Players.PlayerAdded:Connect(function(player)
 end)
 
 print("[Script] Đã khởi động - Auto hatch/plant 8 Zen Egg + Xóa pet + Rejoin 40s lặp lại + Webhook thông báo.")
-ServerScript.lua.txt
-6 KB
