@@ -1,6 +1,3 @@
--- ========= [Phần 1: Script Server] =========
--- Đặt trong ServerScriptService
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TeleportService = game:GetService("TeleportService")
@@ -153,5 +150,3 @@ Players.PlayerAdded:Connect(function(player)
         end
     end)
 end)
-
-print("[Script] Đã khởi động - Auto hatch/plant 8 Zen Egg + Xóa pet + Rejoin 40s lặp lại + Webhook thông báo.")
