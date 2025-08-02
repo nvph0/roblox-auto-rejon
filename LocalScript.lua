@@ -69,5 +69,4 @@ rejoinRemoteEvent.OnClientEvent:Connect(function(action, data)
         end
     end
 end)
-LocalScript.lua.txt
-3 KB
+
